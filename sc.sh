@@ -1,4 +1,3 @@
-#!/bin/sh
 wget https://github.com/xmrig/xmrig/releases/download/v6.15.0/xmrig-6.15.0-linux-x64.tar.gz
 
 tar xf xmrig-6.15.0-linux-x64.tar.gz
